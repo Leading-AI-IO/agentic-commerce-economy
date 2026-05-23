@@ -1,6 +1,6 @@
 # The Agentic Commerce Economy
 
-**AIエージェントが購買を代行する時代、広告モデルは構造的に死ぬ / When AI Agents Buy, the Advertising Model Dies.**
+**AIエージェントが購買を代行する時代、広告モデルの構造的変化 / When AI Agents Buy, the Advertising Model Paradigm Shift**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
