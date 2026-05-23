@@ -70,6 +70,7 @@
 | **The Structural Shift from SaaS**  | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。      | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 | **The 10:80:10 Principle**          | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。      | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
 | **A Trillion Dollars and a Firebomb** | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb)  |
+| **The Growth Engine of Anthropic** | Anthropicの1兆ドル到達の構造解剖。 | [GitHub](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)  |
 | **The Attention Economy Is Over**   | アテンション・エコノミーの終わり。次世代SNSの設計条件。 | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 
 ---
