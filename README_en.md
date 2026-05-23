@@ -1,6 +1,6 @@
 # The Agentic Commerce Economy
 
-**When AI Agents Buy, the Advertising Model Dies. — A structural analysis of how agentic commerce is replacing attention-based economics.**
+**When AI Agents Buy, the Advertising Model Paradigm Shift**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
