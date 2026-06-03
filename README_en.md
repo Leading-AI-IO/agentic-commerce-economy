@@ -72,6 +72,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **A Trillion Dollars and a Firebomb** | The Parallel Realities of the AI Era | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) |
 | **The Growth Engine of Anthropic** | Decoding the $1T Trajectory | [GitHub](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)  |
 | **The Attention Economy Is Over**   | The end of the attention economy. A design brief for the next-generation SNS. | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
+| **Will ai break the planet** | The AI Infrastructure Boom and the Race Against the Climate's Point of No Return | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
 
 ---
 
