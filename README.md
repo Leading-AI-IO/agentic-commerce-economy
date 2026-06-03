@@ -72,6 +72,7 @@
 | **A Trillion Dollars and a Firebomb** | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb)  |
 | **The Growth Engine of Anthropic** | Anthropicの1兆ドル到達の構造解剖。 | [GitHub](https://github.com/Leading-AI-IO/the-growth-engine-of-anthropic)  |
 | **The Attention Economy Is Over**   | アテンション・エコノミーの終わり。次世代SNSの設計条件。 | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
+| **Will ai break the planet** | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」。 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
 
 ---
 
