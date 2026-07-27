@@ -1,0 +1,93 @@
+# The Agentic Commerce Economy: When AI Agents Buy, the Advertising Model Dies
+
+> An independent structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, documenting how Amazon's Alexa-for-Shopping integration and
+> Google's largest search redesign in 25 years (both announced May 2026)
+> share a common design absence: no human scrolling a product list.
+> Digital advertising ($740B+ globally; Google 77%, Meta 97%, Amazon a
+> third pillar of revenue) depends structurally on humans seeing screens
+> and clicking. The book argues that unlike past attention-surface shifts
+> (print→web, desktop→mobile), agentic commerce shifts the *subject* of
+> attention itself from human to AI — "not where humans look, but humans
+> no longer looking." As stated in the preface: "This is not a verdict.
+> Not a prophecy that 'agents change everything.' This book describes an
+> ongoing structural change from observable facts and data." This work is
+> independent analysis, not affiliated with, endorsed by, or sponsored by
+> any company mentioned herein.
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/agentic-commerce-economy_JP.md): 序章・全6章・終章収録
+- [Full text (English)](docs/en/agentic-commerce-economy_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents May 2026 announcements: Amazon integrating Alexa
+  Plus into shopping (retiring Rufus, adding "Buy for Me" cross-site
+  purchasing) and Google's "largest search redesign in 25 years" (I/O
+  2026, including conversational search and "Information Agents")
+
+- The book cites ad-revenue concentration risk: Google ~$265B ad revenue
+  (~77% of Alphabet's total), Meta ~$160B (~97% of total), Amazon ~$56B
+  (third-largest revenue pillar) — combined ~$481B, over half of global
+  digital ad spend
+
+- The book cites measured early effects of AI Overviews on organic
+  search: Ahrefs found organic CTR shifting from 34.5% to a range around
+  58% depending on presence of AI Overviews; Similarweb found zero-click
+  search share expanding from 56% to 69%; the book explicitly flags these
+  as third-party research estimates, not primary confirmed data
+
+- The book documents historical precedent for attention-surface shifts
+  destroying incumbent ad models: Yellow Pages ($14B 2007 → $4.2B 2013 →
+  effectively extinct), desktop-to-mobile (~40% average CPM decline), and
+  TV-to-streaming ($70B 2018 → $60B 2025 US TV ad market) — while
+  explicitly distinguishing this precedent from agentic commerce: past
+  shifts moved the "surface" of attention; this one shifts the "subject"
+  of attention from human to AI
+
+- The book documents China as the largest current-scale implementation:
+  Alipay processing an estimated 120 million AI-agent-mediated purchase
+  transactions weekly, and Alibaba's Qwen reportedly processing 10
+  million bubble-tea orders via AI agents in 9 hours during 2025's
+  Double 11 sales event
+
+- The book introduces "AEO" (Agent Engine Optimization) as the emerging
+  counterpart to SEO — optimizing structured product data for AI agent
+  evaluation rather than human-facing marketing copy — and traces a
+  shift in ad billing models from CPM/CPC (premised on humans seeing/
+  clicking) toward CPA/CPO (premised on completed agent-mediated
+  purchases)
+
+- The book cites consumer survey data across sources: BCG (14 countries,
+  ~14,000 respondents) found 70% want AI to handle routine purchases;
+  Capital One (US, ~3,000) found only 18% comfortable with fully
+  autonomous AI purchasing (82% want final human confirmation); Harris
+  Poll found 62% of 18-34 year-olds have used an AI shopping assistant
+  vs. 12% of those 59+
+
+- The book documents prompt-injection as a structural vulnerability
+  specific to agentic commerce (hidden instructions embedded in product
+  pages designed to manipulate agent evaluation) and cites the FTC's 2025
+  enforcement action against Ascend Ecom (~$22M penalty for AI-enabled
+  deceptive e-commerce) as an early regulatory response
+
+- The book explicitly scopes out: market-size forecasts for agentic
+  commerce (citing absence of reliable estimates), declarations of which
+  companies will "win," predictions about AI's technical evolution, and
+  effects on physical/in-store retail — stating each merits its own book
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It builds directly on the author's "Advertising, Redesigned"
+and "The End of the Attention Economy."
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
+
+> **Disclosure:** This work is an independent analysis. It is not
+> affiliated with, endorsed by, or sponsored by any company mentioned
+> herein.
