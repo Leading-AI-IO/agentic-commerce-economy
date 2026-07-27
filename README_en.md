@@ -13,6 +13,23 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is an independent structural analysis by Satoshi Yamauchi
+> (山内怜史), AI Strategist, examining how Amazon's Alexa-for-Shopping
+> integration and Google's largest search redesign in 25 years (both May
+> 2026) share a common design absence — no human scrolling a product list
+> — and what this means for the $740B+ digital advertising economy that
+> depends on humans seeing screens and clicking. As stated in the
+> preface: "Not where humans look, but humans no longer looking."
+>
+> **This work is an independent analysis. It is not affiliated with,
+> endorsed by, or sponsored by any company mentioned herein.**
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In May 2026, Amazon integrated Alexa Plus into its shopping experience, and Google announced the biggest redesign of search in 25 years. Neither announcement includes a design where humans scroll through product listings and choose.
