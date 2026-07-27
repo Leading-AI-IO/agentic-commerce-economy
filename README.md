@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is The Agentic Commerce Economy**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年5月に発表された
+> Amazonのショッピング体験へのAlexa Plus統合とGoogleの25年間で最大の検索
+> リデザインが、いずれも「人間が商品一覧をスクロールして選ぶ」設計を持た
+> ないという共通点を起点に、7,400億ドル超のデジタル広告市場が依存する
+> 「人間が画面を見てクリックする」という前提の崩壊を分析した独立系構造
+> 分析である。序章の言葉：「人間がどこを見るかではなく、人間が見なくなる。」
+>
+> **本書は独立した分析であり、本文中で言及されるいかなる企業とも提携・
+> 承認・後援関係にありません。**
+>
+> **This book** is an independent structural analysis by Satoshi Yamauchi
+> examining how Amazon's and Google's May 2026 shopping/search redesigns
+> share a common absence — no human scrolling a product list — and what
+> this means for the $740B+ digital advertising economy.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年5月、Amazonはショッピング体験にAlexa Plusを統合し、Googleは25年間で最大の検索リデザインを発表した。どちらの発表にも、商品一覧ページを人間がスクロールして選ぶという行為は設計されていない。
